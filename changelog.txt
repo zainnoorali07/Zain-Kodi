@@ -1,0 +1,4 @@
+Initial Version (0.2)
+-Added Full Quran with Urdu Translations
+-Added News Channels
+-Added Entertainment Channels
